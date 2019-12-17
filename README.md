@@ -1,1 +1,1 @@
-# redirecting.html
+# redirecting
